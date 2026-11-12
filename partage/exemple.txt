@@ -1,0 +1,1 @@
+Bonjour ! Ce fichier est servi par notre serveur Python.
